@@ -7,5 +7,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=truelanz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## _website_:
-<a target="_blank" href="https://alanroliveira.com.br"><img style="width=5px; height=5px" src=https://alanroliveira.com.br/logo-icon-96px-96px.png/></a>
+<a target="_blank" href="https://alanroliveira.com.br"><img style="width: 30px; height: 30px;" src=https://alanroliveira.com.br/logo-icon-96px-96px.png/></a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
